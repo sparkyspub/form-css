@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+.wufoo{
+	font-family:'Montserrat';
+}
+.instructions h3 {
+	display: none;
+}
