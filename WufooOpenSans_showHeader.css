@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+.wufoo{
+	font-family:'Open Sans';
+    -moz-text-shadow: 0 1px 0 #fff;
+    -o-text-shadow: 0 1px 0 #fff;
+    -webkit-text-shadow: 0 1px 0 #fff;
+    -khtml-text-shadow: 0 1px 0 #fff;
+    text-shadow: 0 1px 0 #fff;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: normal;
+}
+.instructions h3 {
+	display: none;
+}
+.wfSmallFont label.desc{
+	font-size: 13px;
+}
